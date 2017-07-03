@@ -1,0 +1,6 @@
+add new servers to the cluster,
+demote the master,
+promote a slave
+move the database to a new server,
+start and stop replication,
+remove a server.
